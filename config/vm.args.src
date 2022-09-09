@@ -1,0 +1,6 @@
+-sname 'ex_banking_web'
+
+-setcookie 'ex_banking_web_cookie'
+
++K true
++A30
